@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I'm currently working on Java Full Stack Development projects using Spring Boot & React<br><br>🤝 I'm looking to collaborate on real-time applications and backend development projects<br><br>🆘 I'm looking for help with system design, DSA, and building scalable applications<br><br>📚 I'm currently learning Microservices, REST APIs, and advanced Java concepts<br><br>💬 Ask me about Java, OOP, SQL, Spring Boot, and Web Development<br><br>⚡ Fun fact: I love solving coding challenges and debugging tricky errors 😄
+💼 I'm currently working on Java Full Stack Development projects using Spring Boot & JS<br><br>🤝 I'm looking to collaborate on real-time applications and backend development projects<br><br>🆘 I'm looking for help with system design, DSA, and building scalable applications<br><br>📚 I'm currently learning Microservices, REST APIs, and advanced Java concepts<br><br>💬 Ask me about Java, OOP, SQL, Spring Boot, and Web Development<br><br>⚡ Fun fact: I love solving coding challenges and debugging tricky errors 😄
 
 
 ## 🌐 Socials:
